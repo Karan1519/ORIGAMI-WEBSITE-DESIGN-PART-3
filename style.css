@@ -1,0 +1,50 @@
+body{
+    background-color: #5DADE2 
+}
+p{
+    color: #E74C3C;
+    display:flex;
+    justify-content:center;
+  }
+  img{
+      border: solid;
+      display: flexbox;
+  }
+.camel{
+    display:flex;
+    justify-content:center;
+    background-color: #AED6F1  ;
+  }
+  .chameleon{
+    display:flex;
+    justify-content:center;
+    background-color: #AED6F1 
+  }
+  .pigeon{
+    display:flex;
+    justify-content:center;
+    background-color:#AED6F1 
+  }
+  .bear{
+    display:flex;
+    justify-content:center;
+    background-color:#AED6F1 
+  }
+  .panda{
+    display:flex;
+    justify-content:center;
+    background-color:#AED6F1 
+  }
+  .cicada{
+    display:flex;
+    justify-content:center;
+    background-color: #AED6F1 
+  }
+  .icon{
+    display:flex;
+    justify-content:flex-start;
+    background-color: #AED6F1 
+}
+
+  
+  
